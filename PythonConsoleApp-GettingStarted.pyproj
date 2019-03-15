@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5d8b2192-ce37-4eae-b630-232f95f4870d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>homework 4.1 Add student .py</StartupFile>
+    <StartupFile>homework 4.1 Add student using nested functions.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="homework 4.1 Add student using nested functions.py" />
     <Compile Include="homework 4.1 Add student .py" />
     <Compile Include="functions.py">
       <SubType>Code</SubType>
