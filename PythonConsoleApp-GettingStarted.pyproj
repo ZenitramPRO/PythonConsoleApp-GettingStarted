@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5d8b2192-ce37-4eae-b630-232f95f4870d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>yield.py</StartupFile>
+    <StartupFile>lambda.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
     <Compile Include="4.1 Add student using nested functions.py" />
     <Compile Include="4.1 Add student .py" />
     <Compile Include="functions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lambda.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonConsoleApp_GettingStarted.py" />
