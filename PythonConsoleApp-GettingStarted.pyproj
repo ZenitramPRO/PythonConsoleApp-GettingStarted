@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5d8b2192-ce37-4eae-b630-232f95f4870d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>5.1 Classes - Adding method.py</StartupFile>
+    <StartupFile>5.2 Classes - Constructor and other Special method.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,7 @@
     <Compile Include="4.2 Opening, Reading and Writing.py" />
     <Compile Include="4.1 Add student using nested functions.py" />
     <Compile Include="4.1 Add student .py" />
+    <Compile Include="5.2 Classes - Constructor and other Special method.py" />
     <Compile Include="5.1 Classes - Adding method.py">
       <SubType>Code</SubType>
     </Compile>
