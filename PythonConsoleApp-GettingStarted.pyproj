@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5d8b2192-ce37-4eae-b630-232f95f4870d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>homework 4.1 Add student using nested functions.py</StartupFile>
+    <StartupFile>4.2 Opening, Reading and Writing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,12 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="homework 4.1 Add student using nested functions.py" />
-    <Compile Include="homework 4.1 Add student .py" />
+    <Compile Include="4.2 Opening, Reading and Writing.py" />
+    <Compile Include="4.1 Add student using nested functions.py" />
+    <Compile Include="4.1 Add student .py" />
     <Compile Include="functions.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonConsoleApp_GettingStarted.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="students.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
