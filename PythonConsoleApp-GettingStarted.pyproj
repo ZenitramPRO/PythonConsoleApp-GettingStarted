@@ -36,6 +36,9 @@
     <Compile Include="lambda.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="main.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonConsoleApp_GettingStarted.py" />
     <Compile Include="yield.py">
       <SubType>Code</SubType>
